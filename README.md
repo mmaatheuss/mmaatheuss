@@ -1,4 +1,4 @@
-### Olá!Eu sou o Matheus Santos Lima Desenvolvedor front-End😀
+### Olá!Eu sou o Matheus Santos Lima Desenvolvedor WEB😀
 
 ### SOCIAL
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/matheus-santos-lima-a5370a192/)
