@@ -1,6 +1,6 @@
 ## Front End Developer
 
-Sou Matheus Santos Lima, tenho 29 anos moro em Brasilia. Formado em Tecnico em Desenvolvimento de Sistemas pelo Instituto Federal de Brasília (IFB), atualmente estou iniciando a graduação em Análise e Desenvolvimento de Sistemas pela Estácio. Apaixonado por tecnologia e programação, busco a cada dia aprender, construi o conhenhecimento,crescer como pessoa e profissional .Compartilho por meio do linkedin meus conhecimentos atraves de posts e artigos sobre tecnologia.
+I'm Matheus Santos Lima, I'm 29 years old and I live in Brasilia. Graduated in Systems Development Technician from the Federal Institute of Brasília (IFB), I am currently starting my degree in Systems Analysis and Development at Estácio. Passionate about technology and programming, I seek to learn every day, build knowledge, grow as a person and professional. I share my knowledge through posts and articles about technology through LinkedIn.
 
 ### Languages and Technologies
 ![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
