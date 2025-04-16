@@ -14,7 +14,7 @@ Sou Matheus Santos Lima, tenho 29 anos moro em Brasilia. Formado em Tecnico em D
 <img src= "https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap" align="center">
   
 </div></br>
-![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
+
 
 
 
