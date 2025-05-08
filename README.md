@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&width=435&lines=Hi%2C+I'm+Matheus+Santos;Front-End+Developer)](https://git.io/typing-svg)
+###Front-End Developer
 
 I'm Matheus Santos Lima, I'm 29 years old and I live in Brasilia. Graduated in Systems Development Technician from the Federal Institute of Brasília (IFB), I am currently starting my degree in Systems Analysis and Development at Estácio. Passionate about technology and programming, I seek to learn every day, build knowledge, grow as a person and professional. I share my knowledge through posts and articles about technology through LinkedIn.
 
